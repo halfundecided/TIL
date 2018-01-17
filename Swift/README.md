@@ -9,6 +9,26 @@
 ## Short-cut
 - command + '=' : adjust the label box size## Short-cut
 
+## pick random number
+`arc4random_uniform(6)`: pick a random number from 0 to 5
+
+## Reference
+- App icons: https://developer.apple.com/library/content/qa/qa1686/_index.html
+
+## Comments
+`//this is comment`
+````swift
+/*
+multiple 
+lines 
+comments
+*/
+````
+
+## Print
+`print(variable)`
+`print("Hello World")`
+
 ## Variables, Constants and Data Types
 - Declare variable: `var myInteger : Int = 24`
 - Change value: `myInteger = 25`
@@ -23,19 +43,15 @@ let double : Double = 3.1415
 let diceArray = ["dice1", "dice2", "dice3", "dice4", "dice5", "dice6"]
 ````
 
-## pick random number
-`arc4random_uniform(6)`: pick a random number from 0 to 5
-
-## Comments
-`//this is comment`
+## Functions 
+- Declare(create) function 
 ````swift
-/*
-multiple 
-lines 
-comments
-*/
+func nameOfFunction(){
+...
+}
 ````
+- Call function
+`nameOfFunction()`
 
-## Reference 
-- App icons: https://developer.apple.com/library/content/qa/qa1686/_index.html
-- 
+
+ 
