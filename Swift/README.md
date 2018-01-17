@@ -65,4 +65,19 @@ func nameOfFunction(){
 
 ## Conditional Statements 
 - if/else statement
-`if Condition { ... }
+`if Condition { ... }`
+
+## Loops 
+- basic structure
+````swift
+let arrayOfNumbers = [1,5,3,4,6,34,56]
+
+for number in arrayOfNumbers {
+    print(number)
+}
+````
+- other way
+`for number in 1...10 {...}`
+`for number in 1..<10 {...}`
+`for number in 1...10 where number % 2 == 0 {...}`
+
