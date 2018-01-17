@@ -77,7 +77,7 @@ for number in arrayOfNumbers {
 }
 ````
 - other way
-`for number in 1...10 {...}`
-`for number in 1..<10 {...}`
-`for number in 1...10 where number % 2 == 0 {...}`
+  + `for number in 1...10 {...}`
+  + `for number in 1..<10 {...}`
+  + `for number in 1...10 where number % 2 == 0 {...}`
 
