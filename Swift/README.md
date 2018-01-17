@@ -53,5 +53,16 @@ func nameOfFunction(){
 - Call function
 `nameOfFunction()`
 
+- Declare function with input 
+`func getMilk(howManyMilkCartons: Int){...}`
 
- 
+- Call function with input 
+`getMilk(howManyMilkCartons: 4)`
+
+- Declare function with Output 
+`func getMilk(howManyMilkCartons : Int, budget : Int) -> Int {...}`
+
+
+## Conditional Statements 
+- if/else statement
+`if Condition { ... }
