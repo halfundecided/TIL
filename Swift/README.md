@@ -81,3 +81,16 @@ for number in arrayOfNumbers {
   + `for number in 1..<10 {...}`
   + `for number in 1...10 where number % 2 == 0 {...}`
 
+
+## Do, Catch and Try
+- structure 
+````swift 
+do {
+	try ...
+} catch {
+  ...
+}
+````
+- to force run this code without throw: `try! audioPlayer = AVAudioPlayer(contentsOf: soundURL!)`
+- search error code here! : www.asstatus.com
+ 
