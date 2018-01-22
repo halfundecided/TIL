@@ -35,4 +35,14 @@
 - `git branch -d A`: remove branch A
 - `git branch -m existingBranch newBranch: change from existingBranch to newBranch
 - 
-  
+
+
+
+
+
+## Linux lab
+- `ssh linuxlab` : go to linuxlab  
+- `scp filename linuxlab:~/` : copy file or folder into linux lab
+- `make` : compile
+- `/.filename` : test
+
