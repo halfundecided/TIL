@@ -31,4 +31,9 @@ class Question {
     }
 ````
 
+#### why MVC?
+1. Provides structure
+2. Recognisable by third parties 
+3. Code Reuse
+4. Multitasking
 
