@@ -10,6 +10,7 @@ mysql> CREATE TABLE user (
   userID varchar(20),
   userPassword varchar(64)
 );
+````
 
 #### Check Tables
 `mysql> show tables;`
