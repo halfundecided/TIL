@@ -7,6 +7,7 @@
 `sudo rm -f /Library/Tomcat`
 `sudo ln -s /usr/local/apache-tomcat-x.x.x /Library/Tomcat`
 4. make all scripts excutable:
-`sudo chmod +x /Library/Tomcat/bin/*.sh
+`sudo chmod +x /Library/Tomcat/bin/*.sh`
+
 
 
