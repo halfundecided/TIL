@@ -46,3 +46,8 @@
 - `make` : compile
 - `/.filename` : test
 
+## alias
+- `vim .bashrc`: ~ 상태에서 `ls -a` 체크 한 뒤
+- add nicknames 
+- `source ~/.bashrc`
+ 
