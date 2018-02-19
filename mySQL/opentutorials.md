@@ -37,4 +37,13 @@ CREATE TABLE topic(
 - `INSERT INTO topic ( ...`
 - `SELECT * FROM topic;`
 - `SELECT title, description FROM topic;`
-- `SELECT egoing FROM author;` 
+- `SELECT egoing FROM author;`
+- `SELECT id,title,created,author FROM topic WHERE author='egoing' ORDER BY id DESC`;`
+
+#### SQL의 UPDATE
+- `UPDATE topic SET description='Oracle is ..', title='Oracle' WHERE id=2;`
+- WHERE문 빠트리지 않기!
+
+#### SQL의 DELETE
+- `DELETE FROM topic WHERE id=5;`
+
