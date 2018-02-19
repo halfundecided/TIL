@@ -47,3 +47,9 @@ CREATE TABLE topic(
 #### SQL의 DELETE
 - `DELETE FROM topic WHERE id=5;`
 
+#### Relational Database 
+- `SELECT * FROM topic LEFT JOIN author ON topic.author_id = author.id;`
+
+#### Internet & database
+- mySQL: commands를 통해서 database server을 제어하는 것.
+ 
