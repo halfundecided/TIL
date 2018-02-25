@@ -41,4 +41,38 @@
 4. jsx
 
 #### Dataflow with Props
+- Props are the way a father component gives information to a child component
+
+#### React LifeCycle - Render
+1. componentWillMount() --> request API
+2. render()
+3. componentDidMount()
  
+#### React LifeCycle - Update
+1. componentWillReceiveProps()
+2. shouldComponentUpdate()
+3. componentWillUpdate()
+4. render()
+5. componentHasUpdate
+
+#### state
+- object
+
+#### stateless function
+- function that does not have state; dumb components
+  + just to return something. 
+  + no need update, mounting...
+  + no lifecycle
+  + functional component
+- class component; smart components
+
+#### Ajax
+- Asynchronous JavaScript and XM
+- JSON: JavaScript Object Notation; 오브젝트를 자바스크립트로 작성하는 기법 
+- FETCH
+
+#### refe
+- https://reactjs.org/docs/react-component.html#constructor
+- https://reactjs.org/docs/react-component.html#setstate
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
