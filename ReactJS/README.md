@@ -69,10 +69,18 @@
 #### Ajax
 - Asynchronous JavaScript and XM
 - JSON: JavaScript Object Notation; 오브젝트를 자바스크립트로 작성하는 기법 
-- FETCH
+- FETCH 이용해서 URL에서 무엇인가를 GET
+
+#### Promises
+
+#### Asynchronous
+- 이전작업이 끝나지 않았어도 그 다음작업이 시작하는 형태
+
+
 
 #### refe
 - https://reactjs.org/docs/react-component.html#constructor
 - https://reactjs.org/docs/react-component.html#setstate
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+- http://jamesknelson.com/grokking-es6-promises-the-four-functions-you-need-to-avoid-callback-hell/
 
