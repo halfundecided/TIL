@@ -76,6 +76,12 @@
 #### Asynchronous
 - 이전작업이 끝나지 않았어도 그 다음작업이 시작하는 형태
 
+#### CSS
+`yarn add react-lines-ellipsis`
+
+#### Deloyment
+`yarn build`
+- add `hompage whatever` to package.jason
 
 
 #### refe
