@@ -14,4 +14,7 @@
 #### set new password
 `mysql> ALTER USER 'root'@'localhost' IDENTIFIED BY 'newpassword';
 
+#### Bitnami: access to mySQL from the command line
+1. `cd /Applications/mampstack-*`
+2. `mysql/bin/mysql -u root -p`
  
