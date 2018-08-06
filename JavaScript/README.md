@@ -1,5 +1,5 @@
 ### DOM Manipulation and Events
-
+  
 #### THE DOCUMENT OBJECT MODEL
 - DOM: Document Object Model;
 - Structured representation of an HTML document;
