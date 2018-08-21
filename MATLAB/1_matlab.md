@@ -17,4 +17,7 @@
 
 #### 1.3 The MATLAB Environment
 * The fundamental unit of data in ant MATLAB program is the **array**.
-*   
+* A variable can be deleted from the workspace with the `clear` command.
+* Getting help: `help`, `lookfor`
+* Clear the Command Window: `clc`
+  
